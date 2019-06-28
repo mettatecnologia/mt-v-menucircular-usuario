@@ -1,5 +1,5 @@
 {
-  "name": "jb-v-menucircular-usuario",
+  "name": "@metta/mt-v-menucircular-usuario",
   "version": "1.0.1",
   "description": "",
   "main": "index.js",
@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jbmchd/jb-v-menucircular-usuario.git"
+    "url": "git+https://github.com/mettatecnologia/mt-v-menucircular-usuario.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jbmchd/jb-v-menucircular-usuario/issues"
+    "url": "https://github.com/mettatecnologia/mt-v-menucircular-usuario/issues"
   },
-  "homepage": "https://github.com/jbmchd/jb-v-menucircular-usuario#readme"
+  "homepage": "https://github.com/mettatecnologia/mt-v-menucircular-usuario#readme"
 }
