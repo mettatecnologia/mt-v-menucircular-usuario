@@ -1,8 +1,8 @@
 <template>
-    <v-list-tile :href="href">
+    <v-list-item :href="href">
         <v-icon class="mr-1">{{icone}}</v-icon>
-        <v-list-tile-title>{{titulo}}</v-list-tile-title>
-    </v-list-tile>
+        <v-list-item-title>{{titulo}}</v-list-item-title>
+    </v-list-item>
 </template>
 
 <script>
@@ -13,7 +13,7 @@
         },
         data(){return {
         }},
-        
+
     }
 </script>
 
